@@ -1,0 +1,46 @@
+
+#mso-gallery-selected-images .mso-thumb-wrapper {
+    display: inline-block;
+    position: relative;
+    margin: 5px;
+    border: 1px solid #ddd;
+    padding: 3px;
+    background: white;
+    cursor: move;
+}
+#mso-gallery-selected-images img {
+    max-width: 100px;
+    max-height: 100px;
+    display: block;
+}
+#mso-gallery-selected-images .mso-remove-thumb {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background: red;
+    color: white;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid white;
+    font-size: 14px;
+}
+#mso-gallery-selected-images .ui-sortable-placeholder {
+    border: 1px dashed #aaa;
+    background: #f0f0f0;
+    width: 106px; /* Adjust based on .mso-thumb-wrapper size */
+    height: 106px; /* Adjust based on .mso-thumb-wrapper size */
+    display: inline-block;
+    margin: 5px;
+    visibility: visible !important; /* Override jQuery UI default */
+}
+
+.mso-gallery-editor-advertisement {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #eef;
+}

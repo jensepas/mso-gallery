@@ -1,0 +1,242 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MSO Meta Description\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-26 11:17+0200\n"
+"PO-Revision-Date: 2025-04-26 11:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../includes/class-gallery-admin.php:24
+#: ../includes/class-gallery-admin.php:25 ../src/mso-gallery-gutenberg.js:20
+#: ../src/mso-gallery-gutenberg.js:123
+msgid "MSO Gallery"
+msgstr "Galerie MSO"
+
+#: ../includes/class-gallery-admin.php:63
+msgid "Add MSO Gallery"
+msgstr "Ajouter la galerie MSO"
+
+#: ../includes/class-gallery-admin.php:92
+msgid "Security check failed!"
+msgstr "Le contrôle de sécurité a échoué !"
+
+#: ../includes/class-gallery-admin.php:98
+msgid "Site administrator does not allow users to switch editors."
+msgstr ""
+"L'administrateur du site n'autorise pas les utilisateurs à changer d'éditeur."
+
+#: ../includes/class-gallery-admin.php:121
+msgid "Your editor preference has been saved."
+msgstr "Votre préférence d'éditeur a été enregistrée."
+
+#: ../includes/class-gallery-admin.php:125
+msgid "Could not save editor preference or value unchanged."
+msgstr ""
+"Impossible d'enregistrer la préférence ou la valeur de l'éditeur sans la "
+"modifier."
+
+#: ../includes/class-gallery-admin.php:149
+msgid "MSO Gallery Shortcode Generator"
+msgstr "Générateur de shortcode de la galerie MSO"
+
+#: ../includes/class-gallery-admin.php:150
+msgid "Select images from the media library to generate the gallery shortcode."
+msgstr ""
+"Sélectionnez des images dans la bibliothèque multimédia pour générer le "
+"shortcode de la galerie."
+
+#: ../includes/class-gallery-admin.php:169
+msgid "No images selected yet."
+msgstr "Aucune image sélectionnée pour le moment."
+
+#: ../includes/class-gallery-admin.php:173
+msgid "Select Images"
+msgstr "Sélectionner des images"
+
+#: ../includes/class-gallery-admin.php:177
+msgid "Generated Shortcode"
+msgstr "Shortcode généré"
+
+#: ../includes/class-gallery-admin.php:178
+msgid "Copy and paste this shortcode into your post or page:"
+msgstr "Copiez et collez ce shortcode dans votre article ou votre page :"
+
+#: ../includes/class-gallery-admin.php:198
+msgid ""
+"The \"Classic Editor\" plugin is not active. Editor preference settings "
+"require this plugin."
+msgstr ""
+"Le plugin « Éditeur classique » n'est pas actif. Les préférences de "
+"l'éditeur nécessitent ce plugin."
+
+#: ../includes/class-gallery-admin.php:205
+msgid ""
+"The site administrator has not enabled the option for users to choose their "
+"editor."
+msgstr ""
+"L'administrateur du site n'a pas activé l'option permettant aux utilisateurs "
+"de choisir leur éditeur."
+
+#: ../includes/class-gallery-admin.php:209
+#, php-format
+msgid "The site default editor is set to: %s"
+msgstr "L'éditeur par défaut du site est défini sur : %s"
+
+#: ../includes/class-gallery-admin.php:212
+#: ../includes/class-gallery-admin.php:286
+msgid "the classic editor"
+msgstr "l'éditeur classique"
+
+#: ../includes/class-gallery-admin.php:213
+#: ../includes/class-gallery-admin.php:287
+msgid "the block editor (Gutenberg)"
+msgstr "l'éditeur de blocs (Gutenberg)"
+
+#: ../includes/class-gallery-admin.php:226
+#: ../includes/class-gallery-admin.php:233
+msgid "Editor Preference"
+msgstr "Préférence de l'éditeur"
+
+#: ../includes/class-gallery-admin.php:227
+msgid ""
+"Choose the editor you prefer to use when creating or editing posts and pages."
+msgstr ""
+"Choisissez l'éditeur que vous préférez utiliser lors de la création ou de la "
+"modification d'articles et de pages."
+
+#: ../includes/class-gallery-admin.php:237
+msgid "Block Editor (Gutenberg)"
+msgstr "Éditeur de blocs (Gutenberg)"
+
+#: ../includes/class-gallery-admin.php:242
+msgid "Classic Editor"
+msgstr "Éditeur classique"
+
+#: ../includes/class-gallery-admin.php:245
+msgid "Save Preference"
+msgstr "Enregistrer les préférences"
+
+#: ../includes/class-gallery-admin.php:281
+#, php-format
+msgid "The block editor (Gutenberg) is active for user %s."
+msgstr "L'éditeur de blocs (Gutenberg) est actif pour l'utilisateur %s."
+
+#: ../includes/class-gallery-admin.php:282
+#, php-format
+msgid "The classic editor is active for user %s."
+msgstr "L'éditeur classique est actif pour l'utilisateur %s."
+
+#: ../includes/class-gallery-admin.php:284
+#, php-format
+msgid "The WordPress site uses %s by default."
+msgstr "Le site WordPress utilise %s par défaut."
+
+#: ../includes/class-gallery-admin.php:327
+msgid "Select or Upload Gallery Images"
+msgstr "Sélectionnez ou téléchargez des images de la galerie"
+
+#: ../includes/class-gallery-admin.php:328
+msgid "Use these images"
+msgstr "Utilisez ces images"
+
+#: ../includes/class-gallery-admin.php:357
+msgid "Select Images for MSO Gallery"
+msgstr "Sélectionner des images pour la galerie MSO"
+
+#: ../includes/class-gallery-admin.php:358
+msgid "Insert MSO Gallery Shortcode"
+msgstr "Insérer le shortcode de la galerie MSO"
+
+#: ../includes/class-gallery-block.php:192
+msgid "Loading images..."
+msgstr "Chargement des images..."
+
+#: ../src/mso-gallery-gutenberg.js:81
+msgid "Gallery Settings"
+msgstr "Paramètres de la galerie"
+
+#: ../src/mso-gallery-gutenberg.js:82
+msgid "Select images for your gallery."
+msgstr "Sélectionnez des images pour votre galerie."
+
+#: ../src/mso-gallery-gutenberg.js:91 ../src/mso-gallery-gutenberg.js:110
+msgid "Edit Gallery"
+msgstr "Modifier la galerie"
+
+#: ../src/mso-gallery-gutenberg.js:91
+msgid "Create Gallery"
+msgstr "Créer une galerie"
+
+#: ../src/mso-gallery-gutenberg.js:124
+msgid "Create your gallery by selecting images."
+msgstr "Créez votre galerie en sélectionnant des images."
+
+#: ../src/mso-gallery-gutenberg.js:148
+msgid "Loading..."
+msgstr "Chargement…"
+
+#, fuzzy
+#~| msgid "MSO Gallery"
+#~ msgid "Ajouter MSO Gallery"
+#~ msgstr "Galerie MSO"
+
+#~ msgid "MSO Gallery Generator"
+#~ msgstr "Générateur de galerie MSO"
+
+#~ msgid "Front page meta description"
+#~ msgstr "Balise méta description de la page"
+
+#~ msgid "Added by"
+#~ msgstr "Ajouté par"
+
+#~ msgid "Character count"
+#~ msgstr "Nombre de caractères"
+
+#~ msgid "Add a meta description to your HTML code"
+#~ msgstr "Ajoutez une méta description à votre code HTML"
+
+#~ msgid ""
+#~ "Your meta description should ideally be between 120 and 160 characters "
+#~ "(including spaces)."
+#~ msgstr ""
+#~ "Votre méta-description doit idéalement comporter entre 120 et 160 "
+#~ "caractères (espaces compris)."
+
+#~ msgid "Generate the summary (Gemini AI)"
+#~ msgstr "Générer le résumé (Gemini IA)"
+
+#~ msgid "Generate the summary (Mistral AI)"
+#~ msgstr "Générer le résumé (Mistral IA)"
+
+#~ msgid "MSO Meta Description"
+#~ msgstr "MSO Meta Description"
+
+#~ msgid "MSO Meta Description custom settings"
+#~ msgstr "MSO Meta Description paramètres personnalisés"
+
+#~ msgid "Save"
+#~ msgstr "Enregistrer"
+
+#~ msgid "Mistral API Key"
+#~ msgstr "Clé API Mistral"
+
+#~ msgid "Gemini API Key"
+#~ msgstr "Clé API Gemini"
+
+#~ msgid "Gemini Model"
+#~ msgstr "Modèle Gemini"
+
+#~ msgid "Select the Gemini model to use."
+#~ msgstr "Sélectionnez le modèle Gemini à utiliser."
